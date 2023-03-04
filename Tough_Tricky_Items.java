@@ -56,5 +56,9 @@ public class Tough_Tricky_Items {
             -> Interviewbit should be sufficient here
 
 
+        -> Tries
+            -> Operations that might be asked in some HLD questions like Meesho's suggestion in their webiste
+
+
     */
 }
